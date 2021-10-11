@@ -10,23 +10,34 @@
  ## Git status 🧑‍💻
  <div>
   <a href="https://github.com/matthew-sbrito">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-sbrito&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matthew-sbrito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-sbrito&layout=compact&langs_count=6&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matthew-sbrito&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <div>
  
 ## 💻 Technologies and tools 🖥️
 
+### 🕒 Experience
  <div>
   <img align="center" alt="Thew-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Thew-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thew-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="Thew-Angular" height="43" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png">
-  <img align="center" alt="Thew-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Thew-C#" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png">
  <img align="center" alt="Thew-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thew-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  <img align="center" title="Thew-MySql" alt="Logo MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
+  <img align="center" title="Thew-Git" alt="Logo Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+  <img align="center" title="Thew-GitHub" alt="Logo GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" title="Thew-Firebird" alt="Logo Firebird" height="40" width="40" src="/img/firebird.png">
 </div> 
+
+### 📙 Learning
+
+<div>
+    <img align="center" title="Thew-Node" alt="Logo Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Thew-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img align="center" alt="Thew-Angular" height="43" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png">
+  <img align="center" alt="Thew-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" title="Thew-Firebase" alt="Logo Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
+  <img align="center" title="Thew-Docker" alt="Logo Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+</div>
  
 ## Contacts 📱
  
