@@ -26,7 +26,6 @@
   <img align="center" title="MySQL" alt="logo-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
   <img align="center" title="Git" alt="logo-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
   <img align="center" title="GitHub" alt="logo-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-  <img align="center" title="Firebird" alt="logo-firebird" height="40" width="40" src="/img/firebird.png">
 </div> 
 
 ### 📙 Learning
@@ -38,8 +37,6 @@
   <img align="center" title="React-JS" alt="logo-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" title="Firebase" alt="logo-firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   <img align="center" title="Docker" alt="logo-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-  <img align="center" title="Dart" alt="logo-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" title="Laravel" alt="logo-laravel" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain.svg"> 
 </div>
  
 ## Contacts 📱
