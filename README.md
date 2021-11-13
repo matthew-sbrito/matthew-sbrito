@@ -27,14 +27,14 @@
   <img align="center" title="Git" alt="logo-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
   <img align="center" title="GitHub" alt="logo-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 </div> 
+  <img align="center" title="Node" alt="logo-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" title="TypeScript" alt="logo-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img align="center" title="React-JS" alt="logo-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 ### 📙 Learning
 
 <div>
-    <img align="center" title="Node" alt="logo-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" title="TypeScript" alt="logo-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
    <img align="center" title="Angular" alt="logo-angular" height="43" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png">
-  <img align="center" title="React-JS" alt="logo-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" title="Firebase" alt="logo-firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   <img align="center" title="Docker" alt="logo-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <img align="center" title="PostgreSQL" alt="logo-pg" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
