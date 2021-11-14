@@ -17,24 +17,37 @@
 ## 💻 Technologies and tools 🖥️
 
 ### 🕒 Experience
+### Backend
  <div>
+  <img align="center" title="Node" alt="logo-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" title="TypeScript" alt="logo-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" title="PHP" alt="logo-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" title="Composer" alt="logo-composer" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg">
+  <img align="center" title="Laravel" alt="logo-laravel" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center" title="MySQL" alt="logo-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+  <img align="center" title="Firebird" alt="logo-fb" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Firebird_logo.svg/1200px-Firebird_logo.svg.png"> 
+ </div>
+ 
+### Frontend
+ 
+ <div>
+    <img align="center" title="ReactJS" alt="logo-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" title="JavaScript" alt="logo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="HTML" alt="logo-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="logo-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" title="MySQL" alt="logo-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
+ </div>
+ 
+ ### Tools
+ <div> 
+  <img align="center" title="VSCode" alt="logo-vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> 
   <img align="center" title="Git" alt="logo-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
   <img align="center" title="GitHub" alt="logo-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 </div> 
-  <img align="center" title="Node" alt="logo-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" title="TypeScript" alt="logo-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" title="React-JS" alt="logo-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 ### 📙 Learning
 
 <div>
-   <img align="center" title="Angular" alt="logo-angular" height="43" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/240px-Angular_full_color_logo.svg.png">
+   <img align="center" title="Angular" alt="logo-angular" height="43" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" title="Firebase" alt="logo-firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
   <img align="center" title="Docker" alt="logo-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <img align="center" title="PostgreSQL" alt="logo-pg" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
