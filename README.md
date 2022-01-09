@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/matthew-sbrito?style=social)
  
  ## Bio - Hello, Dev! 👋
- I'm a Systems Development Student and i'm evolving my skills and knowledge in technology! Focus on full stack web development!
+ I'm a Software Engineer Student and i'm evolving my skills and knowledge in technology! Focus on full stack web development!
  My hobbies are playing games 🎮 and listening to music 🎶🎸!
  
  ## Git status 🧑‍💻
