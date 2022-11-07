@@ -6,12 +6,6 @@
  I'm a Software Engineer Student and i'm evolving my skills and knowledge in technology! Focus on full stack web development!
  My hobbies are playing games 🎮 and listening to music 🎶🎸!
  
- ## Git status 🧑‍💻
- <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-sbrito&layout=compact&langs_count=6&theme=react"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matthew-sbrito&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<div>
- 
 ## 💻 Technologies and tools 🖥️
 
 <div style="background: #eee; padding: 8px 20px; color: #222; border-radius: 10px;">
