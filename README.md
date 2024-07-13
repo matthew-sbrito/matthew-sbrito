@@ -40,12 +40,6 @@
          <td>
             <img title="Prisma" alt="logo-prisma" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXnnYlmlxe67CtuSstx4oMBxW0eWi29jjWsm6lNQCQr6JFnEyzhmt7_ADtuH0_pqUn0GI&usqp=CAU">
          </td>
-         <td>
-            <img title="groovy" alt="logo-groovy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/groovy/groovy-original.svg">
-         </td>
-         <td>
-            <img title="Grails" alt="logo-grails" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/grails/grails-original.svg">
-         </td>
       </tr>
       <tr>
          <td>
@@ -82,20 +76,6 @@
          <td>
             <img title="NextJS" alt="logo-next" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg">
          </td>
-         <td></td>
-      </tr>
-            <tr>
-         <td>
-            <strong>Mobile</strong>
-         </td>
-         <td>
-            <img title="Kotlin" alt="logo-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg">
-         </td>
-         <td>
-            <img title="Flutter" alt="logo-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg">
-         </td>
-         <td></td>
-         <td></td>
          <td></td>
       </tr>
       <tr>
