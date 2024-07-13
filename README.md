@@ -2,7 +2,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/matthew-sbrito?style=social)
  
  ## **Hello, Dev!** 👋
- I'm a Software Engineer Student and i'm evolving my skills and knowledge in technology! Focus on full stack web development!
+ I'm a Software Engineer and I'm evolving my skills and knowledge in technology every day! Focus on web development!
  My hobbies are playing games 🎮 and listening to music 🎶🎸!
  
 ## Technologies and tools 🖥️💻
