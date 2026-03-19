@@ -1,130 +1,101 @@
-## **Matheus Brito dos Santos**
-![GitHub followers](https://img.shields.io/github/followers/matthew-sbrito?style=social)
- 
- ## **Hello, Dev!** 👋
- I'm a Software Engineer and I'm evolving my skills and knowledge in technology every day! Focus on web development!
- My hobbies are playing games 🎮 and listening to music 🎶🎸!
- 
-## Technologies and tools 🖥️💻
+<div align="center">
 
-<table>
-   <tbody>
-      <tr>
-         <td> 
-            <strong>Back-end</strong>
-         </td>
-         <td>
-            <img title="Java" alt="logo-java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg">
-         </td>
-         <td>
-            <img title="Spring" alt="logo-spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original-wordmark.svg">
-         </td>
-         <td>
-            <img title="csharp" alt="logo-csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-plain.svg">
-         </td>
-         <td>
-            <img title="dotnet" alt="logo-dotnet" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dotnetcore/dotnetcore-original.svg">
-         </td>
-         <td>
-            <img title="NodeJS" alt="logo-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-         </td> 
-      </tr>
-      <tr>
-         <td></td>
-         <td>
-            <img title="TypeScript" alt="logo-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-         </td>
-         <td>
-            <img title="Express" alt="logo-express" height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg">
-         </td>
-         <td>
-            <img title="Prisma" alt="logo-prisma" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXnnYlmlxe67CtuSstx4oMBxW0eWi29jjWsm6lNQCQr6JFnEyzhmt7_ADtuH0_pqUn0GI&usqp=CAU">
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <strong>Front-end</strong>
-         </td>
-         <td>
-            <img title="HTML" alt="logo-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-         </td>
-         <td>
-            <img title="CSS" alt="logo-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-         </td>
-         <td>
-            <img title="JavaScript" alt="logo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-         </td>
-         <td>
-            <img title="SCSS" alt="logo-scss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg">
-         </td>
-         <td>
-            <img title="Bootstrap" alt="logo-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg">
-         </td>
-      </tr>
-      <tr>
-         <td>
-         </td>
-         <td>
-            <img title="Tailwindcss" alt="logo-tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg">
-         </td>
-         <td>
-            <img title="Angular" alt="logo-angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg">
-         </td>
-         <td>
-            <img title="ReactJS/Native" alt="logo-react/react-native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-         </td>
-         <td>
-            <img title="NextJS" alt="logo-next" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg">
-         </td>
-         <td></td>
-      </tr>
-      <tr>
-         <td>
-            <strong>Database</strong>
-         </td>
-         <td>
-            <img title="PostgreSQL" alt="logo-pg" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg">
-         </td>
-         <td>
-            <img title="MongoDB" alt="logo-mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
-         </td>
-         <td>
-            <img title="SQLServer" alt="logo-ss" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png">
-         </td>
-         <td>
-            <img title="MySQL" alt="logo-mysql" height="20" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
-         </td>
-         <td></td>
-      </tr>
-      <tr>
-         <td>
-            <strong>DevOps</strong>
-         </td>
-         <td>
-            <img title="Docker" alt="logo-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
-         </td>
-         <td>
-            <img title="Git" alt="logo-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
-         </td>         
-         <td></td>
-         <td></td>
-         <td></td>
-      </tr>
-   </tbody>
-</table>
- 
-## Contacts 📱
-<div>
-   <a href="mailto:matheusbr032@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-   </a>   
-   <a href="https://www.linkedin.com/in/matthew-sbrito/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-   </a>
-   <a href="https://www.instagram.com/matheus_brito__/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-   </a>  
-   <a href="https://api.whatsapp.com/send?phone=5577998442230" target="_blank">
-      <img src="https://img.shields.io/badge/-Whatsapp-%23?style=for-the-badge&logo=whatsapp&logoColor=white">
-   </a>
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Matheus%20Brito&fontSize=52&fontColor=E2E8F0&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer&descAlignY=58&descColor=94A3B8&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/matthew-sbrito/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://matthew-sbrito.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:matheusdevback@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>  
+</div>
+
+<br/>
+
+```typescript
+const matheus: Engineer = {
+  role:         "Senior Full-Stack Engineer",
+  experience:   "7+ years",
+  location:     "Brazil 🇧🇷  →  Open to remote worldwide 🌍",
+  currentWork:  "Building AI-powered SaaS @ Evolve IT Solutions",
+  focus:        ["Scalable backends", "Cloud architecture", "AI integrations"],
+  stack:        {
+    primary:    ["C#", ".NET 8", "Angular", "TypeScript"],
+    cloud:      ["Azure", "AWS", "Docker", "Kubernetes"],
+    data:       ["PostgreSQL", "Redis", "Apache Kafka"],
+    ai:         ["Azure OpenAI", "GPT-4o", "Function Calling"],
+  },
+  availability: "Open to senior remote opportunities",
+};
+```
+
+---
+
+## 🚀 What I'm building
+
+At **Evolve IT Solutions**, I'm architecting a multi-tenant automotive CRM SaaS platform — the kind of system that scales across 400+ dealerships, manages 20M+ leads, and processes millions of messages across WhatsApp, SMS, Email, Facebook, and Instagram.
+
+The most interesting part: I built an AI auto-reply engine using **Azure OpenAI + Function Calling** that qualifies leads, responds in natural language, and creates appointments autonomously — no human in the loop.
+
+---
+
+## 🛠️ Tech Stack
+
+#### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+#### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+#### Cloud & Infra
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+## 🏆 Career highlights
+
+| # | Achievement | Impact |
+|---|-------------|--------|
+| 🤖 | Built AI-powered lead qualification engine (Azure OpenAI + GPT-4o) | **80%+ conversion increase** |
+| 🏗️ | Architected multi-tenant SaaS CRM serving 400+ automotive dealerships | **20M+ leads · 5M+ messages** |
+| 📡 | Designed event-driven microservice for telecom failure processing (Kafka + AWS) | **50% faster integrations** |
+| 📱 | Built offline-first Flutter mobile app for farm inventory (QR code + sync) | Eliminated manual stock errors |
+| ⚡ | Replaced legacy sales system with .NET + React automation tool | **20% revenue increase** |
+
+---
+
+## 📫 Let's connect
+
+I'm currently open to **senior full-stack or backend remote roles** with global teams.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/matthew-sbrito/) — best place to reach me
+- 🌐 [Portfolio](https://matthew-sbrito.vercel.app) — projects, skills & CV
+- 📧 [matheusdevback@gmail.com](mailto:matheusdevback@gmail.com)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=100&section=footer" width="100%"/>
 </div>
